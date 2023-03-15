@@ -10,4 +10,5 @@ The FIFA21 dataset in its messy form was gotten from kaggle and contains 18980 r
 The dataset was in a structured format with each player’s information occupying a row in the dataset. The data file also includes the data dictionary whhich can be accessed [here](https://github.com/Darexboy/Data-Wrangling-using-Excel/blob/main/FIFA%20Dataset%20Dictionary.pptx)
 
 ## Data Cleaning process
-The report for this data cleaning process can be viewed here[Documentation]
+The report for this data cleaning process can be viewed here: [Documentation](https://github.com/Darexboy/Data-Wrangling-using-Excel/blob/main/Data%20Wrangling%20process%20on%20FIFA21%20raw%20data%20in%20Excel.pdf)
+
